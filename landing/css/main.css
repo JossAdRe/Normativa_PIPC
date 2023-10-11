@@ -964,7 +964,7 @@ ul.nav > li > a.active{
     z-index: 1;
 }
 .project-item .overlay{
-    background-color: rgba(192,202,2,0.9);
+    background-color: rgba(82, 82, 82, 0.577);
     content: "";
     position: absolute;
     width: 100%;
